@@ -1,7 +1,9 @@
 
 # Starting the python path: Introduction to Google colab
 ## Starting resources
+
 •	If you are new to google colab you can watch an introduction to it here - https://www.youtube.com/watch?v=inN8seMm7UI 
+
 •	If you have never used python before you can read an introduction to the language here - https://www.w3schools.com/python/python_intro.asp 
 
 ## Setting up google colab 
