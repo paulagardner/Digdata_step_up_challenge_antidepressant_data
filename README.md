@@ -1,3 +1,24 @@
+
+# Starting the python path: Introduction to Google colab
+## Starting resources
+•	If you are new to google colab you can watch an introduction to it here - https://www.youtube.com/watch?v=inN8seMm7UI 
+•	If you have never used python before you can read an introduction to the language here - https://www.w3schools.com/python/python_intro.asp 
+
+# Setting up google colab
+1.	You should have access to the file ‘Digdata_python_path.ipynb’ in this github repository. Download this to your device somewhere where is accessible.
+
+2.	Navigate to the google colab website
+
+a.	If you have never used google colab before, you will be asked to create an account – which you can do with a pre-existing google account
+b.	If you have an account, log in.
+ 
+3.	You will have a set of options, select  ‘Upload’,  and then browse for the file ‘Digdata_python_path.ipynb’ to upload
+ 
+4.	This should successfully load your notebook
+
+a.	Note: whenever you see the symbol circled below, it means you can toggle to hide the section for ease of navigation of the document
+ 
+
 # Data we are using for analysis
 
 This data is from the NSHBSA Open Data Portal, and is called the 'Prescription Cost analysis' dataset.
