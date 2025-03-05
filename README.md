@@ -4,7 +4,9 @@
 •	If you are new to google colab you can watch an introduction to it here - https://www.youtube.com/watch?v=inN8seMm7UI 
 •	If you have never used python before you can read an introduction to the language here - https://www.w3schools.com/python/python_intro.asp 
 
-# Setting up google colab
+## Setting up google colab 
+You will have more details for setting up google colab in your We Transfer file in the document 'Google colab intro'
+
 1.	You should have access to the file ‘Digdata_python_path.ipynb’ in this github repository. Download this to your device somewhere where is accessible.
 
 2.	Navigate to the google colab website
