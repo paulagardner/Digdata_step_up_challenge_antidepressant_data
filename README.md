@@ -16,8 +16,10 @@ You will have more details for setting up google colab in your We Transfer file 
 a.	If you have never used google colab before, you will be asked to create an account – which you can do with a pre-existing google account
 
 b.	If you have an account, log in.
+
  
 3.	You will have a set of options, select  ‘Upload’,  and then browse for the file ‘Digdata_python_path.ipynb’ to upload
+
  
 4.	This should successfully load your notebook
 
